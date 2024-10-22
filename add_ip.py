@@ -143,5 +143,5 @@ def main():
                 st.error(str(e))
 
 # Run the app
-if __name__== "_main_":
+if __name__== "_add_ip_":
     main()
